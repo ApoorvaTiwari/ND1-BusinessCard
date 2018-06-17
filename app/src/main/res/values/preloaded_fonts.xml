@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/boogaloo</item>
+        <item>@font/cambo</item>
+        <item>@font/chelsea_market</item>
+        <item>@font/copse</item>
+        <item>@font/itim</item>
+        <item>@font/maiden_orange</item>
+        <item>@font/neuton</item>
+        <item>@font/risque</item>
+    </array>
+</resources>
